@@ -35,7 +35,7 @@ export default class Index extends Component {
         })
         if (res && res.data && res.data.data && res.data.data.data == 1) {
           this.setState({
-            from: 2,
+            from: 1,
           });
         } else {
           this.setState({

@@ -4,7 +4,7 @@ export default
     "id": 1,
     "desc": "雅诗兰黛（Estee Lauder）特润修护肌透精华露 100ml (ANR抗皱小棕瓶）",
     "real_price": 720,
-    "fake_price": 928,
+    "fake_price": 1450,
     "img": "https://img14.360buyimg.com/n7/jfs/t1/91644/20/18412/96072/5e941f21E58e9355a/c1985ec628576494.jpg",
     "imgArr": [
       "https://img30.360buyimg.com/sku/jfs/t1/44905/7/9615/155825/5d6f53faE363c15da/c57eff6fbc5ffadb.jpg",
@@ -29,7 +29,7 @@ export default
     {
       "id": 3,
       "desc": "迪奥（Dior）凝脂恒久粉底液1N号30ml（锁妆 哑光 遮瑕保湿 控油 ）",
-      "real_price": 370,
+      "real_price": 350,
       "fake_price": 520,
       "img": "https://img12.360buyimg.com/n7/jfs/t1/55548/2/3078/48461/5d0db530Ef15c869a/9a8f2b4511e4a31a.jpg",
       "imgArr": [
@@ -42,8 +42,8 @@ export default
     {
       "id": 4,
       "desc": "贝玲妃（benefit）反孔精英打底霜 22ml（妆前打底、隔离霜、隐形毛孔）",
-      "real_price": 199,
-      "fake_price": 305,
+      "real_price": 190,
+      "fake_price": 320,
       "img": "https://img10.360buyimg.com/n7/jfs/t1/116841/9/5926/317901/5eb6831fE34b9f696/11fd422ebc0c0e1c.jpg",
       "imgArr": [
         "https://img30.360buyimg.com/sku/jfs/t1/5013/33/11802/334779/5bd144f8E2e630bd6/c1453198ff6567c5.jpg",
@@ -57,8 +57,8 @@ export default
     {
       "id": 5,
       "desc": "阿玛尼气垫精华粉底液蓝标大师持妆权利 power权力粉底液3#冷调白",
-      "real_price": 390,
-      "fake_price": 539,
+      "real_price": 395,
+      "fake_price": 630,
       "img": "https://img11.360buyimg.com/n7/jfs/t1/96839/19/13861/41710/5e5c6187E0e0a0004/68c2e99df2f842e2.jpg",
       "imgArr": [
         "https://img10.360buyimg.com/imgzone/jfs/t1/126350/31/681/195194/5eb6e14bE21a74bb7/5e0b4d01eb809f86.jpg",
@@ -72,7 +72,7 @@ export default
       "id": 6,
       "desc": "娇兰（Guerlain）金钻修颜系列 遮瑕控油保湿提亮持妆 金钻修颜气垫粉底液 00N",
       "real_price": 395,
-      "fake_price": 499,
+      "fake_price": 580,
       "img": "https://img10.360buyimg.com/n7/jfs/t1/108196/36/3997/149059/5e16cfb0E58c6ddb7/2a12016dc31a732c.jpg",
       "imgArr": [
         "http://img30.360buyimg.com/popWaterMark/jfs/t24631/43/1728351820/200022/8f3ef3fd/5bbaf867N0494f5c6.png",
